@@ -2,7 +2,7 @@
 
 This is a work in progress to create custom rc boat.
 
-![schematic](./diagram/boat_bb.png)
+![schematic](./diagram/boat_bb.svg)
 
 ## Part List
 
