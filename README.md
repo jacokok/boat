@@ -7,6 +7,8 @@ This is a work in progress to create custom rc boat.
 This is all parts that I had and I am planning to use.
 
 - Raspberry Pi Pico
+- FS-IA6B FlySky Receiver
+- FS-I6 FlySky Transmitter
 - 20A ESC
 - 2300KV Motor
 - 12V Battery
