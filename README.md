@@ -1,5 +1,18 @@
 # Boat
 
+This is a work in progress to create custom rc boat.
+
+## Part List
+
+This is all parts that I had and I am planning to use.
+
+- Raspberry Pi Pico
+- 20A ESC
+- 2300KV Motor
+- 12V Battery
+- UBEC 12V to 5V converter
+- Servos still researching
+
 ## DEV Setup
 
 1. Install micropython on raspberry pi
