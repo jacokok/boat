@@ -2,6 +2,8 @@
 
 This is a work in progress to create custom rc boat.
 
+![schematic](./diagram/boat_bb.png)
+
 ## Part List
 
 This is all parts that I had and I am planning to use.
